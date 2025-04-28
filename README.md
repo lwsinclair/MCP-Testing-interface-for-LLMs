@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/srish-ty-mcp-testing-interface-for-llms)
+
 # Memory Context Provider (MCP) Server
 
 A server that manages context for LLM interactions, storing and providing relevant context for each user.
